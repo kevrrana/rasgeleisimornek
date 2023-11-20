@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\rasgeleisimornek\rasgeleisimornek\bin\Debug\rasgeleisimornek.exe.config
+C:\Users\User\source\repos\rasgeleisimornek\rasgeleisimornek\bin\Debug\rasgeleisimornek.exe
+C:\Users\User\source\repos\rasgeleisimornek\rasgeleisimornek\bin\Debug\rasgeleisimornek.pdb
+C:\Users\User\source\repos\rasgeleisimornek\rasgeleisimornek\obj\Debug\rasgeleisimornek.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\rasgeleisimornek\rasgeleisimornek\obj\Debug\rasgeleisimornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\rasgeleisimornek\rasgeleisimornek\obj\Debug\rasgeleisimornek.Form1.resources
+C:\Users\User\source\repos\rasgeleisimornek\rasgeleisimornek\obj\Debug\rasgeleisimornek.Properties.Resources.resources
+C:\Users\User\source\repos\rasgeleisimornek\rasgeleisimornek\obj\Debug\rasgeleisimornek.csproj.GenerateResource.cache
+C:\Users\User\source\repos\rasgeleisimornek\rasgeleisimornek\obj\Debug\rasgeleisimornek.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\rasgeleisimornek\rasgeleisimornek\obj\Debug\rasgeleisimornek.exe
+C:\Users\User\source\repos\rasgeleisimornek\rasgeleisimornek\obj\Debug\rasgeleisimornek.pdb
